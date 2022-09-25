@@ -1,12 +1,5 @@
 # okidwijaya-Decision Tree Clasifier using Python
 
-### import numpy as np
-### import matplotlib.pyplot as plt
-### from sklearn.metrics import classification_report
-### from sklearn.model_selection import train_test_split
-### from sklearn.tree import DecisionTreeClassifier
-### from utilities import visualize_classifier
-
 ## Result
 Classifier performance oin training dataset
 
@@ -36,6 +29,8 @@ Classifier performance oin training dataset
 weighted avg       0.97      0.97      0.97        90
 
 ########################################
+
+
 ![download](https://user-images.githubusercontent.com/44255656/192131495-45c54ad5-5578-4bdd-aa05-dec587ca5c2c.png)
 ![download (1)](https://user-images.githubusercontent.com/44255656/192131498-5127636c-c9e0-411f-8b5f-d06659344203.png)
 ![download (2)](https://user-images.githubusercontent.com/44255656/192131499-3273e660-d18d-468c-9e26-2599b0eacd1f.png)
